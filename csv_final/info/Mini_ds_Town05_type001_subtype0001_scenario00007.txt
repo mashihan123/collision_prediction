@@ -1,0 +1,16 @@
+road_type: four-way junction
+
+first_cls: car
+first_id: 869
+first_type: ego
+first_direction: straight
+first_collision_side: front
+first_fault? Y pedestrian_crossing
+
+second_cls: pedestrian
+second_id: 870
+second_type: none
+second_direction: straight
+second_collision_side: right
+second_fault? N
+second_relative_direction_to_first: left

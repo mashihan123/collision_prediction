@@ -1,0 +1,16 @@
+road_type: three-way junction
+
+first_cls: van
+first_id: 3151
+first_type: other_behind
+first_direction: straight
+first_collision_side: right
+first_fault? Y red_light
+
+second_cls: van
+second_id: 3155
+second_type: none
+second_direction: right
+second_collision_side: front
+second_fault? N
+second_relative_direction_to_first: right

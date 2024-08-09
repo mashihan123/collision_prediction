@@ -1,0 +1,16 @@
+road_type: four-way junction
+
+first_cls: truck
+first_id: 1329
+first_type: other
+first_direction: right
+first_collision_side: left
+first_fault? N
+
+second_cls: car
+second_id: 1339
+second_type: ego_behind
+second_direction: left
+second_collision_side: front
+second_fault? Y left_turn_yield
+second_relative_direction_to_first: opposite

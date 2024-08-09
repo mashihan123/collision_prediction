@@ -1,0 +1,16 @@
+road_type: four-way junction
+
+first_cls: car
+first_id: 3762
+first_type: ego_behind
+first_direction: straight
+first_collision_side: front
+first_fault? not sure stop_sign
+
+second_cls: truck
+second_id: 3763
+second_type: other_behind
+second_direction: straight
+second_collision_side: front
+second_fault? not sure stop_sign
+second_relative_direction_to_first: right

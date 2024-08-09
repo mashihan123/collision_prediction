@@ -1,0 +1,16 @@
+road_type: four-way junction
+
+first_cls: car
+first_id: 1716
+first_type: ego
+first_direction: left
+first_collision_side: front
+first_fault? Y left_turn_yield
+
+second_cls: van
+second_id: 1715
+second_type: none
+second_direction: right
+second_collision_side: left
+second_fault? N
+second_relative_direction_to_first: opposite

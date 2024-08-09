@@ -1,0 +1,16 @@
+road_type: three-way junction
+
+first_cls: car
+first_id: 2545
+first_type: ego
+first_direction: straight
+first_collision_side: left
+first_fault? not sure stop_sign
+
+second_cls: car
+second_id: 2542
+second_type: other
+second_direction: left
+second_collision_side: front
+second_fault? not sure stop_sign
+second_relative_direction_to_first: left

@@ -1,0 +1,16 @@
+road_type: three-way junction
+
+first_cls: truck
+first_id: 3248
+first_type: other
+first_direction: straight
+first_collision_side: front
+first_fault? N
+
+second_cls: van
+second_id: 3262
+second_type: ego_behind
+second_direction: straight
+second_collision_side: left
+second_fault? Y switch_lane
+second_relative_direction_to_first: right

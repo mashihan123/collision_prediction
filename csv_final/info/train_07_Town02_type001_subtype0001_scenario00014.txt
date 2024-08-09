@@ -1,0 +1,16 @@
+road_type: three-way junction
+
+first_cls: car
+first_id: 1421
+first_type: other
+first_direction: right
+first_collision_side: front
+first_fault? Y rear_back
+
+second_cls: motorcycle
+second_id: 1446
+second_type: none
+second_direction: right
+second_collision_side: back
+second_fault? N
+second_relative_direction_to_first: front

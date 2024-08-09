@@ -1,0 +1,16 @@
+road_type: three-way junction
+
+first_cls: van
+first_id: 2071
+first_type: ego
+first_direction: right
+first_collision_side: back
+first_fault? N
+
+second_cls: car
+second_id: 2072
+second_type: ego_behind
+second_direction: right
+second_collision_side: front
+second_fault? Y rear_end
+second_relative_direction_to_first: behind

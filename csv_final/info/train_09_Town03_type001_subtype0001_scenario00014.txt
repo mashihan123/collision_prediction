@@ -1,0 +1,16 @@
+road_type: four-way junction
+
+first_cls: car
+first_id: 1515
+first_type: ego
+first_direction: straight
+first_collision_side: back
+first_fault? N
+
+second_cls: car
+second_id: 1530
+second_type: ego_behind
+second_direction: straight
+second_collision_side: front
+second_fault? Y rear_end
+second_relative_direction_to_first: behind
